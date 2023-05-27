@@ -3,22 +3,7 @@
         {
             "id": 1,
             "name": "John",
-            "email": "tugrp@example.com"
-        },
-        {
-            "id": 1,
-            "name": "John",
-            "password": "tugrp@example.com"
-        },
-        {
-            "id": 1,
-            "name": "John",
-            "password": "tugrp@example.com"
-        },
-        {
-            "id": 1,
-            "name": "John",
-            "password": "tugrp@example.com"
+            "password": 12345
         }
     ]
 }
