@@ -7,7 +7,7 @@ btn.onclick = () => {
    let inputValueTwo = inp[1].value
    let obj = {name: inputValueOne, lastname: inputValueTwo}
 
-   fetch('https://asadbek-insta.onrender.com/data', {
+   fetch('https://new-server-sarvar-production.up.railway.app/data', {
        method: 'POST',
        headers: {
            'Content-Type': 'application/json'
